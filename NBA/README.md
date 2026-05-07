@@ -12,7 +12,7 @@ their body clocks.
 After I saw that there was a distinct trend, I wanted to break it down into each team by where they play games in to see if certain teams played better 
 in different time zones.
 
-![](NBA/02-Playoff%203P%25%20By%20Tipoff%20Time/ET.png)
+![](02-Playoff%203P%25%20By%20Tipoff%20Time/ET.png)
 
 Other time zones here: 
 
