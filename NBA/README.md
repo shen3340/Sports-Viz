@@ -7,7 +7,7 @@ Inspiration: [NekiasNBA's Tweet](https://x.com/NekiasNBA/status/2048462364803313
 I first wanted to look at a surface level of the 3P% of playoff teams by tipoff teams to see if there was any trends towards shooting better in correlation with 
 their body clocks.
 
-![](NBA/02-Playoff%203P%25%20By%20Tipoff%20Time/3_pct_by_game_time.png)
+![](02-Playoff%203P%25%20By%20Tipoff%20Time/3_pct_by_game_time.png)
 
 After I saw that there was a distinct trend, I wanted to break it down into each team by where they play games in to see if certain teams played better 
 in different time zones.
@@ -16,8 +16,8 @@ in different time zones.
 
 Other time zones here: 
 
-[CT](NBA/02-Playoff%203P%25%20By%20Tipoff%20Time/CT.png)
+[CT](02-Playoff%203P%25%20By%20Tipoff%20Time/CT.png)
 
-[MT](NBA/02-Playoff%203P%25%20By%20Tipoff%20Time/MT.png)
+[MT](02-Playoff%203P%25%20By%20Tipoff%20Time/MT.png)
 
-[PT](NBA/02-Playoff%203P%25%20By%20Tipoff%20Time/PT.png)
+[PT](02-Playoff%203P%25%20By%20Tipoff%20Time/PT.png)
