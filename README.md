@@ -24,4 +24,4 @@ Other time zones here:
 
 ![](NCAA%20Basketball/01-Game%20Score/MBB%20Top%2010%20GS%202024-12-30%20thru%202025-01-06.png)
 
-![](NCAA%20Basketball/01-Game%20Score/01-Game%20Score/WBB%20Top%2010%20GS%202024-12-30%20thru%202025-01-06.png)
+![](NCAA%20Basketball/01-Game%20Score/WBB%20Top%2010%20GS%202024-12-30%20thru%202025-01-06.png)
